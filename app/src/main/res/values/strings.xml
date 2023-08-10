@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">TwitchBoard</string>
+    <string name="twitch_login">Twitch Login</string>
+    <string name="user_name">User name</string>
+    <string name="password">Password</string>
+    <string name="authorize">Authorize</string>
+    <string name="title_header">title</string>
+    <string name="broadcast_title_hint">Enter broadcast title...</string>
+    <string name="playing_header">playing</string>
+    <string name="twitch_font_path">fonts/dimitri.ttf</string>
+    <string name="game_hint">Enter game or activity...</string>
+    <string name="update">Update</string>
+    <string name="views_placeholder">1234</string>
+    <string name="follows_placeholder">7</string>
+    <string name="viewers_placeholder">11</string>
+    <string name="send">Send</string>
+    <string name="enter_message">Enter message...</string>
+    <string name="offline">OFFLINE</string>
+    <string name="online">ONLINE</string>
+    <string name="lwr_case_account">account</string>
+    <string name="display_name_placeholder">Display Name</string>
+    <string name="de_authorize">De-Authorize</string>
+
+</resources>
